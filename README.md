@@ -2,20 +2,26 @@
 
 Voyage Vista is an intuitive and user-friendly hotel booking platform designed to provide a seamless experience for travelers looking to book their perfect stay. Whether you're planning a weekend getaway, a business trip, or a family vacation, Voyage Vista offers easy-to-use features for searching, booking, and managing hotel reservations.
 
-Features
+# Features
 Hotel Search: Find hotels based on location, check-in/check-out dates, and room preferences.
 
-Real-Time Availability: See real-time room availability and pricing.
+# Real-Time Availability:
+See real-time room availability and pricing.
 
-User Accounts: Register, log in, and manage your bookings.
+# User Accounts:
+Register, log in, and manage your bookings.
 
-Booking Confirmation: Receive instant confirmation emails with booking details.
+# Booking Confirmation:
+Receive instant confirmation emails with booking details.
 
-Hotel Details Page: View hotel information including amenities, room options, photos, and user reviews.
+# Hotel Details Page: 
+View hotel information including amenities, room options, photos, and user reviews.
 
-Payment Integration: Secure online payment processing for reservations.
+# Payment Integration: 
+Secure online payment processing for reservations.
 
-Admin Dashboard: Admin interface to manage hotel listings, bookings, and user data.
+# Admin Dashboard: 
+Admin interface to manage hotel listings, bookings, and user data.
 
 Technologies Used
 Frontend:
@@ -25,18 +31,6 @@ HTML5
 CSS3 (Flexbox, Grid)
 
 JavaScript (Vanilla JS / React, if applicable)
-
-Bootstrap (Optional)
-
-Backend:
-
-Node.js with Express.js (or any other framework you're using)
-
-MongoDB (or any other database)
-
-Passport.js for Authentication (if needed)
-
-Stripe or PayPal for payment integration (optional)
 
 Deployment:
 
